@@ -1,4 +1,4 @@
 {
     "python.REPL.sendToNativeREPL": true,
-    "interactiveWindow.executeWithShiftEnter": true
+    "interactiveWindow.executeWithShiftEnter": false
 }
